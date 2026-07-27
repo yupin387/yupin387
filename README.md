@@ -42,24 +42,30 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 ---
 
-# 📌 Featured Project
+# 📌 Featured Projects
 
-## 🛕 Merit Ceremony Management System
+<div align="center">
 
-A web-based application developed to simplify the management of merit ceremony services. The system allows users to browse service packages, submit booking requests, and manage ceremony information through an easy-to-use interface.
+| Project | Tech | My Responsibility | Team | Links |
+|---------|------|--------------------|------|-------|
+| 🎬 **Movie Ticket Booking System** | Java Spring Boot · MySQL · HTML/CSS/JS | **User side:** Booking flow, Seat Selection, Payment | Duo Project | [Repo](⟪url⟫) · [Live](⟪url⟫) |
+| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | **Organizer:** Head Staff Management, Quotation Creation, Job Assignment · **Head Staff:** Item Management, Assigned Job List, Job Status Update | Duo Project | [Repo](⟪url⟫) |
 
-### 🚀 Features
+</div>
 
-- User Authentication
-- Merit Ceremony Booking
-- Package Management
-- Food Menu Management
-- Customer Information Management
-- Admin Dashboard
-- Responsive Web Design
+### 🎬 Movie Ticket Booking System
+A web-based cinema ticket booking system built with Java Spring Boot. I was responsible for the **user-facing side**, including the booking flow, seat selection, and payment process.
 
-### 🛠 Built With
+### 🛕 Merit Ceremony Management System
+A web-based application developed to simplify the management of merit ceremony services — from booking to staff assignment and quotations. I was responsible for the **organizer and head staff side**, including:
+- Head staff management (add / edit / remove)
+- Quotation creation
+- Booking approval & staff assignment
+- Head staff features: item management, assigned job list, job status updates
 
+**Features:** User Authentication · Merit Ceremony Booking · Package Management · Food Menu Management · Customer Information Management · Admin Dashboard · Responsive Web Design
+
+**Built With:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,11 +83,11 @@ A web-based application developed to simplify the management of merit ceremony s
 
 ---
 
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+## 🤝 Let's Connect
+> **"Great products are built by great people working together."**
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
+- 💌 Email: yjainum@gmail.com
+- 📝 Schedule a coffee chat: ⟪Calendly link⟫
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 
 <p align="center">

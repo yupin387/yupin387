@@ -17,10 +17,10 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning <<React>>
-- 🛠 Daily driver stack: <<Java / Spring Boot>>
-- 🎯 2025 Goal: <<Become a Web Developer>>
-- 📫 Reach me: <<yjainum@gmail.com>>
+- 🌱 I'm currently learning **React**
+- 🛠 Daily driver stack: **Java / Spring Boot**
+- 🎯 2025 Goal: **Become a Web Developer**
+- 📫 Reach me: **yjainum@gmail.com**
 
 4th-year Information Technology student at Maejo University, passionate about Frontend Development — turning ideas into clean, user-friendly interfaces.
 

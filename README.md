@@ -17,8 +17,10 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring **Spring Boot**, and building my foundation in **Python for Data Science**.
-- 📫 Reach me: **yjainum@gmail.com**
+- 🌱 I'm currently learning <<React>>
+- 🛠 Daily driver stack: <<Java / Spring Boot>>
+- 🎯 2025 Goal: <<Become a Web Developer>>
+- 📫 Reach me: <<yjainum@gmail.com>>
 
 4th-year Information Technology student at Maejo University, passionate about Frontend Development — turning ideas into clean, user-friendly interfaces.
 
@@ -85,7 +87,7 @@ A web-based application developed to simplify the management of merit ceremony s
 </p>
 <p align="center">
   <a href="https://github.com/⟪USERNAME⟫">
-    <img src="https://img.shields.io/badge/GitHub-yupin387-E8EAF6?style=for-the-badge&logo=github&logoColor=333333" />
+    <img src="https://img.shields.io/badge/GitHub-⟪USERNAME⟫-E8EAF6?style=for-the-badge&logo=github&logoColor=333333" />
   </a>
 </p>
 

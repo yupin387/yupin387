@@ -10,19 +10,16 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 <p align="center">
   <strong>Frontend Developer</strong><br/>
-  <em>"Passionate about building clean and user-friendly web applications."</em>
+  <em>Passionate about crafting clean, user-friendly frontend interfaces.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Fourth-year Information Technology student at Maejo University.
-- 💻 Passionate about **Frontend Web Development**.
-- 🌱 Currently improving my skills in **Spring Boot** and **Web Development**.
-- 🛠 Experienced in developing web applications using **HTML, CSS, JavaScript, Spring Boot, and MySQL**.
-- 👨‍🏫 Former Teaching Assistant for the **Database Programming** course.
-- 🤝 Eager to learn new technologies, gain real-world experience, and contribute to a development team.
+- 🎓 4th-year Information Technology student at Maejo University.
+- 💻 Passionate about **Frontend Development** — turning ideas into clean, user-friendly interfaces.
+- 🌱 Currently exploring **Spring Boot**, and building my foundation in **Python for Data Science**.
 - 📫 Reach me: **yjainum@gmail.com**
 
 ---
@@ -31,12 +28,13 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 <div align="center">
 
-| Category | Technologies |
-|----------|--------------|
-| 🎨 Front-end | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ⚙️ Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) |
-| 🗄 Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| 🛠 Tools | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
+| Domain | Primary | Comfortable | Currently Exploring |
+|--------|---------|-------------|----------------------|
+| 🎨 Front-end | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | – | – |
+| ⚙️ Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | – |
+| 🗄 Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | – | – |
+| 📊 Data | – | – | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
+| 🛠 Tools | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) | – |
 
 </div>
 
@@ -46,22 +44,18 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 <div align="center">
 
-| Project | Tech | My Responsibility | Team | Links |
-|---------|------|--------------------|------|-------|
-| 🎬 **Movie Ticket Booking System** | Java Spring Boot · MySQL · HTML/CSS/JS | **User side:** Booking flow, Seat Selection, Payment | Duo Project | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | **Organizer:** Head Staff Management, Quotation Creation, Job Assignment · **Head Staff:** Item Management, Assigned Job List, Job Status Update | Duo Project | [Repo](⟪url⟫) |
+| Project | Tech | Highlights | Links |
+|---------|------|------------|-------|
+| 🎬 **Movie Ticket Booking System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project | [Repo](⟪url⟫) · [Live](⟪url⟫) |
+| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project | [Repo](⟪url⟫) |
 
 </div>
 
 ### 🎬 Movie Ticket Booking System
-A web-based cinema ticket booking system built with Java Spring Boot. I was responsible for the **user-facing side**, including the booking flow, seat selection, and payment process.
+A web-based cinema ticket booking system built with Java Spring Boot, covering the full booking flow from seat selection to payment.
 
 ### 🛕 Merit Ceremony Management System
-A web-based application developed to simplify the management of merit ceremony services — from booking to staff assignment and quotations. I was responsible for the **organizer and head staff side**, including:
-- Head staff management (add / edit / remove)
-- Quotation creation
-- Booking approval & staff assignment
-- Head staff features: item management, assigned job list, job status updates
+A web-based application developed to simplify the management of merit ceremony services — from booking and staff assignment to quotations.
 
 **Features:** User Authentication · Merit Ceremony Booking · Package Management · Food Menu Management · Customer Information Management · Admin Dashboard · Responsive Web Design
 
@@ -84,12 +78,20 @@ A web-based application developed to simplify the management of merit ceremony s
 ---
 
 ## 🤝 Let's Connect
-> **"Great products are built by great people working together."**
-
-- 💌 Email: yjainum@gmail.com
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫
-- 🐦 DM me on [X/Twitter](⟪url⟫)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <a href="mailto:yjainum@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yjainum%40gmail.com-FCE4EC?style=for-the-badge&logo=gmail&logoColor=D14836" />
+  </a>
+  <a href="https://github.com/⟪USERNAME⟫">
+    <img src="https://img.shields.io/badge/GitHub-⟪USERNAME⟫-E8EAF6?style=for-the-badge&logo=github&logoColor=333333" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square&color=blueviolet" alt="profile views"/>
+</p>
+
+<p align="center">
+  <i>✨ Thanks for visiting my profile! ✨</i>
 </p>

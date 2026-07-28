@@ -17,10 +17,10 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 ## 🚀 About Me
 
-- 🎓 4th-year Information Technology student at Maejo University.
-- 💻 Passionate about **Frontend Development** — turning ideas into clean, user-friendly interfaces.
 - 🌱 Currently exploring **Spring Boot**, and building my foundation in **Python for Data Science**.
 - 📫 Reach me: **yjainum@gmail.com**
+
+4th-year Information Technology student at Maejo University, passionate about Frontend Development — turning ideas into clean, user-friendly interfaces.
 
 ---
 
@@ -30,11 +30,10 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|----------------------|
-| 🎨 Front-end | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | – | – |
-| ⚙️ Back-end | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | – |
-| 🗄 Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | – | – |
-| 📊 Data | – | – | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
-| 🛠 Tools | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) | – |
+| Front-end | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | – |
+| Back-end | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | – |
+| Data | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| DevOps & Tools | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 </div>
 
@@ -46,8 +45,8 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 | Project | Tech | Highlights | Links |
 |---------|------|------------|-------|
-| 🎬 **Movie Ticket Booking System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project | [Repo](⟪url⟫) |
+| 🎬 **Movie Ticket Booking System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](⟪url⟫) · [Live](⟪url⟫) |
+| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](⟪url⟫) |
 
 </div>
 
@@ -83,6 +82,8 @@ A web-based application developed to simplify the management of merit ceremony s
   <a href="mailto:yjainum@gmail.com">
     <img src="https://img.shields.io/badge/Email-yjainum%40gmail.com-FCE4EC?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/⟪USERNAME⟫">
     <img src="https://img.shields.io/badge/GitHub-⟪USERNAME⟫-E8EAF6?style=for-the-badge&logo=github&logoColor=333333" />
   </a>

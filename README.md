@@ -85,7 +85,7 @@ A web-based application developed to simplify the management of merit ceremony s
 </p>
 <p align="center">
   <a href="https://github.com/⟪USERNAME⟫">
-    <img src="https://img.shields.io/badge/GitHub-⟪USERNAME⟫-E8EAF6?style=for-the-badge&logo=github&logoColor=333333" />
+    <img src="https://img.shields.io/badge/GitHub-yupin387-E8EAF6?style=for-the-badge&logo=github&logoColor=333333" />
   </a>
 </p>
 

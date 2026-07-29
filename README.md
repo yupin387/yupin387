@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b3a&height=180&section=header&animation=fadeIn" />
-</p>
 <h1 align="center">
 Hi, I'm <b>YUPIN JAINUM</b>
 <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png"/>
@@ -9,6 +6,10 @@ Hi, I'm <b>YUPIN JAINUM</b>
 <p align="center">
   <strong>✨ Frontend Developer ✨</strong><br/>
   <em>Passionate about crafting clean, user-friendly frontend interfaces.</em>
+</p>
+
+<p align="center">
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 </p>
 
 ---

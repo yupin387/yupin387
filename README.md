@@ -43,6 +43,15 @@ Fourth-year Information Technology student at Maejo University with a strong int
 
 # 📌 Featured Projects
 
+<div align="center">
+
+| Project | Tech | Highlights | Links |
+|---------|------|------------|-------|
+| 🎬 **Movie Ticket Booking System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](https://github.com/yupin387/cinema-booking-system) · [Live](⟪url⟫) |
+| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](https://github.com/yupin387/my-final-project.git) |
+
+</div>
+
 ### 🎬 Movie Ticket Booking System
 A web-based cinema ticket booking system built with Java Spring Boot, covering the full booking flow from seat selection to payment.
 
@@ -63,8 +72,6 @@ A web-based cinema ticket booking system built with Java Spring Boot, covering t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-🔗 [Repo](https://github.com/yupin387/cinema-booking-system) · [Live](⟪url⟫)
 
 ---
 
@@ -89,19 +96,12 @@ A web-based application developed to simplify the management of merit ceremony s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-🔗 [Repo](https://github.com/yupin387/my-final-project.git)
-
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yupin387&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupin387&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yupin387&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yupin387&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupin387&layout=compact&hide_border=true" />
 </div>
 
 ---

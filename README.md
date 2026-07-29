@@ -51,7 +51,7 @@ Fourth-year Information Technology student at Maejo University with a strong int
 | 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](https://github.com/yupin387/my-final-project.git) |
 
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🎬 Movie Ticket Booking System
 A web-based cinema ticket booking system built with Java Spring Boot, covering the full booking flow from seat selection to payment.
 
@@ -100,8 +100,10 @@ A web-based application developed to simplify the management of merit ceremony s
 
 ## 📈 GitHub Stats
 <div align="center">
-<img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yupin387&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yupin387&layout=compact&hide_border=true" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yupin387&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yupin387&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+</div>
 </div>
 
 ---

@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Yupin%20Jainum&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b3a&height=180&section=header&animation=fadeIn" />
 </p>
-
 <h1 align="center">
 Hi, I'm <b>YUPIN JAINUM</b>
 <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png"/>

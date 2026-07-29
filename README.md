@@ -17,12 +17,13 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 ## 🚀 About Me
 
+Fourth-year Information Technology student at Maejo University with a strong interest in Web Development, particularly Frontend Development. Proficient in HTML, CSS, JavaScript, Spring Boot, and MySQL, with experience as a Teaching Assistant for a Database Programming course. Strong communication, problem-solving, and teamwork skills, and eager to apply my technical knowledge while gaining hands-on experience as a Frontend Developer intern.
+
 - 🌱 I'm currently learning **React**
 - 🛠 Daily driver stack: **Java / Spring Boot**
 - 🎯 2025 Goal: **Become a Web Developer**
 - 📫 Reach me: **yjainum@gmail.com**
 
-4th-year Information Technology student at Maejo University, passionate about Frontend Development — turning ideas into clean, user-friendly interfaces.
 
 ---
 
@@ -60,7 +61,7 @@ A web-based application developed to simplify the management of merit ceremony s
 
 **Features:** User Authentication · Merit Ceremony Booking · Package Management · Food Menu Management · Customer Information Management · Admin Dashboard · Responsive Web Design
 
-**Built With:**
+**Technologies Used::**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

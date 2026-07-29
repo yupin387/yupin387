@@ -48,7 +48,7 @@ Hi, I'm <b>YUPIN JAINUM</b>
 | Project | Tech | Highlights | Links |
 |---------|------|------------|-------|
 | 🎬 **Movie Ticket Booking System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](https://github.com/yupin387/cinema-booking-system) · [Live](⟪url⟫) |
-| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](⟪url⟫) |
+| 🛕 **Merit Ceremony Management System** | Java Spring Boot · MySQL · HTML/CSS/JS | Duo Project Website | [Repo](https://github.com/yupin387/my-final-project.git) |
 
 </div>
 

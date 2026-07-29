@@ -1,6 +1,5 @@
-<!-- Banner / Cover -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE" alt="header image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Yupin%20Jainum&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">
@@ -9,7 +8,7 @@ Hi, I'm <b>YUPIN JAINUM</b>
 </h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong><br/>
+  <strong>✨ Frontend Developer ✨</strong><br/>
   <em>Passionate about crafting clean, user-friendly frontend interfaces.</em>
 </p>
 

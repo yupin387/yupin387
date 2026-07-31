@@ -52,11 +52,15 @@ Fourth-year Information Technology student at Maejo University with a strong int
 </div>
 
 ### 🎬 Movie Ticket Booking System
-A web-based movie ticket booking system developed with Java Spring Boot to provide a convenient platform for online ticket reservations. The system helps streamline the booking process, reduce manual operations, and improve the overall management of cinema services for both customers and administrators.
 
-<p align="center">
-  <img src="assets/movie-booking-preview.png" width="800" alt="Movie Ticket Booking System preview" />
-</p>
+<table>
+<tr>
+<td width="45%" valign="top">
+<img src="movie-booking-preview.png" width="100%" alt="Movie Ticket Booking System preview" />
+</td>
+<td width="55%" valign="top">
+
+A web-based movie ticket booking system developed with Java Spring Boot to provide a convenient platform for online ticket reservations. The system helps streamline the booking process, reduce manual operations, and improve the overall management of cinema services for both customers and administrators.
 
 **🙋‍♀️ My Role**
 I was responsible for the end-to-end development of the Member (Customer) side of the system, covering both frontend and backend implementation. My responsibilities included delivering a complete user journey, from registration and authentication to ticket booking, payment, and review features, while ensuring a responsive, reliable, and user-friendly web experience.
@@ -69,14 +73,22 @@ I was responsible for the end-to-end development of the Member (Customer) side o
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🛕 Merit Ceremony Management System
-A web-based merit ceremony management system designed to modernize the management of merit ceremony services. The platform helps simplify service processes, improve operational efficiency, and support a better experience for all users.
 
-<p align="center">
-  <img src="assets/merit-ceremony-preview.png" width="800" alt="Merit Ceremony Management System preview" />
-</p>
+<table>
+<tr>
+<td width="45%" valign="top">
+<img src="merit-ceremony-preview.png" width="100%" alt="Merit Ceremony Management System preview" />
+</td>
+<td width="55%" valign="top">
+
+A web-based merit ceremony management system designed to modernize the management of merit ceremony services. The platform helps simplify service processes, improve operational efficiency, and support a better experience for all users.
 
 **🙋‍♀️ My Role**
 I was responsible for developing both the frontend and backend of the Organizer and Head Staff modules. For the Organizer role, I implemented features for staff assignment, quotation management, and task coordination. For the Head Staff role, I developed functionalities for inventory management, work progress updates, and issue reporting to support efficient operational workflows.
@@ -88,6 +100,10 @@ I was responsible for developing both the frontend and backend of the Organizer 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 

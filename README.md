@@ -52,17 +52,18 @@ Fourth-year Information Technology student at Maejo University with a strong int
 </div>
 
 ### 🎬 Movie Ticket Booking System
-A web-based cinema ticket booking system built with Java Spring Boot, covering the full booking flow from seat selection to payment.
+A web-based cinema ticket booking system built with Java Spring Boot. The system allows customers to browse movies and showtimes, select seats, and complete their booking through an online payment flow, while admins manage movies, showtimes, and cinema halls on the back end.
 
-**🎟️ Booking Flow**
-- Browse now-showing and upcoming movies
-- Select showtime, cinema hall, and seats
-- Make payment and receive booking confirmation
-- View booking history and e-ticket details
+<p align="center">
+  <img src="./assets/movie-booking-preview.png" width="850" alt="Scala Cinema homepage preview" />
+</p>
 
-**👥 Role-Based Management**
-- Customer: Browse movies, book seats, and make payments
-- Admin: Manage movies, showtimes, and cinema halls
+**🙋‍♀️ My Role**
+I was responsible for the **Member (Customer) side** of the system, covering the full user journey:
+- Member registration and login
+- Movie and showtime booking
+- Payment processing
+- Post-viewing review and rating
 
 **Technologies Used:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -75,17 +76,24 @@ A web-based cinema ticket booking system built with Java Spring Boot, covering t
 ---
 
 ### 🛕 Merit Ceremony Management System
-A web-based application developed to simplify the management of merit ceremony services — from booking and staff assignment to quotations.
+A web-based application developed to simplify the management of merit ceremony services, covering everything from staff coordination and quotations to on-site work tracking.
 
-**📿 Ceremony Booking**
-- Browse merit ceremony packages and food menus
-- Book ceremony services online
-- Track booking status and quotation details
+<p align="center">
+  <img src="./assets/merit-ceremony-preview.png" width="850" alt="Merit Ceremony Management System homepage preview" />
+</p>
 
-**👥 Role-Based Management**
-- Customer: Browse packages, make bookings, and view quotations
-- Admin: Manage packages, food menus, staff assignments, and customer information
-- Dashboard: Overview of bookings and ceremony schedules
+**🙋‍♀️ My Role**
+I was responsible for **two roles** within the system:
+
+**Organizer**
+- Manage supervisors (assign responsible staff)
+- Create quotations for customers
+- Assign work to staff
+
+**Supervisor**
+- Manage item/equipment inventory
+- Update work progress
+- Report damage or issues
 
 **Technologies Used:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

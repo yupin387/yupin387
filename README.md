@@ -18,9 +18,9 @@ Hi, I'm <b>YUPIN JAINUM</b>
 
 Fourth-year Information Technology student at Maejo University with a strong interest in Web Development, particularly Frontend Development. Proficient in HTML, CSS, JavaScript, Spring Boot, and MySQL, with experience as a Teaching Assistant for a Database Programming course. Strong communication, problem-solving, and teamwork skills, and eager to apply my technical knowledge while gaining hands-on experience as a Frontend Developer intern.
 
-- 🌱 I'm currently learning **React**
-- 🛠 Daily driver stack: **Java / Spring Boot**
-- 🎯 2025 Goal: **Become a Web Developer**
+- 🌱 I'm currently learning **improving my web development skills**
+- 🛠 Daily driver stack: **Java, Spring Boot, HTML, CSS, JavaScript, MySQLt**
+- 🎯 2025 Goal: **Frontend Developer**
 - 📫 Reach me: **yjainum@gmail.com**
 
 ---
@@ -57,11 +57,7 @@ A web-based movie ticket booking system developed with Java Spring Boot to provi
 
 
 **🙋‍♀️ My Role**
-I was responsible for the **Member (Customer) side** of the system, covering the full user journey:
-- Member registration and login
-- Movie and showtime booking
-- Payment processing
-- Post-viewing review and rating
+I was responsible for the end-to-end development of the Member (Customer) side of the system, covering both frontend and backend implementation. My responsibilities included delivering a complete user journey, from registration and authentication to ticket booking, payment, and review features, while ensuring a responsive, reliable, and user-friendly web experience.
 
 **Technologies Used:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -79,17 +75,7 @@ A web-based merit ceremony management system designed to modernize the managemen
 
 
 **🙋‍♀️ My Role**
-I was responsible for **two roles** within the system:
-
-**Organizer**
-- Manage Head staff (assign responsible staff)
-- Create quotations for customers
-- Assign work to staff
-
-**Head staff**
-- Manage item inventory
-- Update work progress
-- Report damage or issues
+I was responsible for developing both the frontend and backend of the Organizer and Head Staff modules. For the Organizer role, I implemented features for staff assignment, quotation management, and task coordination. For the Head Staff role, I developed functionalities for inventory management, work progress updates, and issue reporting to support efficient operational workflows.
 
 **Technologies Used:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

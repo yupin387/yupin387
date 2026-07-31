@@ -52,11 +52,9 @@ Fourth-year Information Technology student at Maejo University with a strong int
 </div>
 
 ### 🎬 Movie Ticket Booking System
-A web-based cinema ticket booking system built with Java Spring Boot. The system allows customers to browse movies and showtimes, select seats, and complete their booking through an online payment flow, while admins manage movies, showtimes, and cinema halls on the back end.
+A web-based movie ticket booking system developed with Java Spring Boot to provide a convenient platform for online ticket reservations. The system helps streamline the booking process, reduce manual operations, and improve the overall management of cinema services for both customers and administrators.
 
-<p align="center">
-  <img src="./assets/movie-booking-preview.png" width="850" alt="Scala Cinema homepage preview" />
-</p>
+
 
 **🙋‍♀️ My Role**
 I was responsible for the **Member (Customer) side** of the system, covering the full user journey:
@@ -76,11 +74,9 @@ I was responsible for the **Member (Customer) side** of the system, covering the
 ---
 
 ### 🛕 Merit Ceremony Management System
-A web-based application developed to simplify the management of merit ceremony services, covering everything from staff coordination and quotations to on-site work tracking.
+A web-based merit ceremony management system designed to modernize the management of merit ceremony services. The platform helps simplify service processes, improve operational efficiency, and support a better experience for all users.
 
-<p align="center">
-  <img src="./assets/merit-ceremony-preview.png" width="850" alt="Merit Ceremony Management System homepage preview" />
-</p>
+
 
 **🙋‍♀️ My Role**
 I was responsible for **two roles** within the system:
@@ -90,8 +86,8 @@ I was responsible for **two roles** within the system:
 - Create quotations for customers
 - Assign work to staff
 
-**Supervisor**
-- Manage item/equipment inventory
+**Head staff**
+- Manage item inventory
 - Update work progress
 - Report damage or issues
 

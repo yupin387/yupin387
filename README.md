@@ -123,6 +123,8 @@ I was responsible for developing both the frontend and backend of the Organizer 
 
 ---
 
+
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -134,8 +136,10 @@ I was responsible for developing both the frontend and backend of the Organizer 
   <a href="https://github.com/yupin387">
     <img src="https://img.shields.io/badge/GitHub-yupin387-E8EAF6?style=for-the-badge&logo=github&logoColor=333333" />
   </a>
+</p>
+<p align="center">
   <a href="https://www.facebook.com/share/19T6mFfCeR/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-Yupin_Jainum-E8EAF6?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+    <img src="https://img.shields.io/badge/Facebook-Yupin_Jainum-E3F2FD?style=for-the-badge&logo=facebook&logoColor=1877F2" />
   </a>
 </p>
 
@@ -146,3 +150,4 @@ I was responsible for developing both the frontend and backend of the Organizer 
 <p align="center">
   <i>✨ Thanks for visiting my profile! ✨</i>
 </p>
+

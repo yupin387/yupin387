@@ -54,7 +54,9 @@ Fourth-year Information Technology student at Maejo University with a strong int
 ### 🎬 Movie Ticket Booking System
 A web-based movie ticket booking system developed with Java Spring Boot to provide a convenient platform for online ticket reservations. The system helps streamline the booking process, reduce manual operations, and improve the overall management of cinema services for both customers and administrators.
 
-
+<p align="center">
+  <img src="assets/movie-booking-preview.png" width="800" alt="Movie Ticket Booking System preview" />
+</p>
 
 **🙋‍♀️ My Role**
 I was responsible for the end-to-end development of the Member (Customer) side of the system, covering both frontend and backend implementation. My responsibilities included delivering a complete user journey, from registration and authentication to ticket booking, payment, and review features, while ensuring a responsive, reliable, and user-friendly web experience.
@@ -72,7 +74,9 @@ I was responsible for the end-to-end development of the Member (Customer) side o
 ### 🛕 Merit Ceremony Management System
 A web-based merit ceremony management system designed to modernize the management of merit ceremony services. The platform helps simplify service processes, improve operational efficiency, and support a better experience for all users.
 
-
+<p align="center">
+  <img src="assets/merit-ceremony-preview.png" width="800" alt="Merit Ceremony Management System preview" />
+</p>
 
 **🙋‍♀️ My Role**
 I was responsible for developing both the frontend and backend of the Organizer and Head Staff modules. For the Organizer role, I implemented features for staff assignment, quotation management, and task coordination. For the Head Staff role, I developed functionalities for inventory management, work progress updates, and issue reporting to support efficient operational workflows.

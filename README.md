@@ -55,14 +55,17 @@ Fourth-year Information Technology student at Maejo University with a strong int
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="45%" valign="middle" align="center">
 <img src="movie-booking-preview.png" width="100%" alt="Movie Ticket Booking System preview" />
 </td>
 <td width="55%" valign="top">
 
+**📝 Overview**
+
 A web-based movie ticket booking system developed with Java Spring Boot to provide a convenient platform for online ticket reservations. The system helps streamline the booking process, reduce manual operations, and improve the overall management of cinema services for both customers and administrators.
 
 **🙋‍♀️ My Role**
+
 I was responsible for the end-to-end development of the Member (Customer) side of the system, covering both frontend and backend implementation. My responsibilities included delivering a complete user journey, from registration and authentication to ticket booking, payment, and review features, while ensuring a responsive, reliable, and user-friendly web experience.
 
 **Technologies Used:**
@@ -83,14 +86,17 @@ I was responsible for the end-to-end development of the Member (Customer) side o
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="45%" valign="middle" align="center">
 <img src="merit-ceremony-preview.png" width="100%" alt="Merit Ceremony Management System preview" />
 </td>
 <td width="55%" valign="top">
 
+**📝 Overview**
+
 A web-based merit ceremony management system designed to modernize the management of merit ceremony services. The platform helps simplify service processes, improve operational efficiency, and support a better experience for all users.
 
 **🙋‍♀️ My Role**
+
 I was responsible for developing both the frontend and backend of the Organizer and Head Staff modules. For the Organizer role, I implemented features for staff assignment, quotation management, and task coordination. For the Head Staff role, I developed functionalities for inventory management, work progress updates, and issue reporting to support efficient operational workflows.
 
 **Technologies Used:**

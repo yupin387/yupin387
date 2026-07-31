@@ -82,7 +82,7 @@ A web-based merit ceremony management system designed to modernize the managemen
 I was responsible for **two roles** within the system:
 
 **Organizer**
-- Manage supervisors (assign responsible staff)
+- Manage Head staff (assign responsible staff)
 - Create quotations for customers
 - Assign work to staff
 

@@ -15,7 +15,7 @@ Hi, I'm <b>YUPIN JAINUM</b>
 ---
 
 ## 🚀 About Me
-Fourth-year Information Technology student at Maejo University, Faculty of Science, with a strong interest in Web Development, particularly Frontend Development. Knowledgeable in HTML, CSS, JavaScript, Spring Boot, and MySQL. Eager to continuously learn and improve my web development skills. Seeking a Frontend Developer internship to gain hands-on experience, develop my teamwork skills, and apply my knowledge to support the organization while preparing for a career in web development.
+Fourth-year Information Technology student at Maejo University with a strong interest in Web Development, particularly Frontend Development. Proficient in HTML, CSS, JavaScript, Spring Boot, and MySQL, with experience as a Teaching Assistant for a Database Programming course. Strong communication, problem-solving, and teamwork skills, and eager to apply my technical knowledge while gaining hands-on experience as a Frontend Developer intern.
 
 - 🌱 I'm currently learning **improving my web development skills**
 - 🛠 Daily driver stack: **Java, Spring Boot, HTML, CSS, JavaScript, MySQLt**
